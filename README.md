@@ -1,7 +1,7 @@
 # Screenshot
  Simple PYscript with GUI to take a screenshot.
 
- ![Banner](header.png)
+ ![Banner](header_screenshot.png)
 
  ## Requierments
 - import numpy as np
