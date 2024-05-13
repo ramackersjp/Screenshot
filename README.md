@@ -12,7 +12,7 @@
 ## Pre-install:
 
 ```
-git clone https://github.com/ramackersjp/Screenshot/station.git
+git clone https://github.com/ramackersjp/Screenshot.git
 cd Screenshot
 cd src
 chmod +x app.py
