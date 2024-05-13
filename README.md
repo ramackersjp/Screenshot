@@ -15,7 +15,7 @@ git clone https://github.com/ramackersjp/Screenshot/station.git](https://github.
 cd Screenshot
 ./Take-Screenshot.sh
 ```
-
+chmod +x Take-Screenshot.sh
 
 ## Run
 To take a screenshot open the app.py file in terminal and type the following commandline: 
