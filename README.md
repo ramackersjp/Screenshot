@@ -16,16 +16,16 @@ git clone https://github.com/ramackersjp/Screenshot/station.git
 cd Screenshot
 ./Take-Screenshot.sh
 ```
-chmod +x app.py (in the src root)
+Chmod (in the SRC map)
+```
+chmod +x app.py
+```
 
 ## Run
 1. Place the Take-Screenshot.desktop file on your desktop.
-2. Go to your IDE en change the .desktop file to your own path. 
+2. Go to your IDE and change the .desktop file to your own paths. 
 3. Take screenshots
 
-```
-python ./app.py
-```
 Quicklaunch (Single command): 
 
 ```
