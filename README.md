@@ -11,7 +11,7 @@
 ## Pre-install:
 
 ```
-git clone https://github.com/ramackersjp/Screenshot/station.git](https://github.com/ramackersjp/Screenshot.git)
+git clone https://github.com/ramackersjp/Screenshot/station.git
 cd Screenshot
 ./Take-Screenshot.sh
 ```
@@ -34,5 +34,7 @@ bash <(curl -L raw.githubusercontent.com/ramackersjp/Screenshot/main/src/app.py)
 ## Image save location:
 The place where you can find your screenshot.
 ```
-images are saved at the src map.
+images are saved at the src map. Or select your own location.
 ```
+## Contribute:
+If you want to contribute to this project, please create a branch from the beta version and pull it there. When the beta branch is fully where we want we merging the beta branch to the main branch.
