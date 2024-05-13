@@ -19,7 +19,7 @@ chmod +x app.py (in the src root)
 
 ## Run
 1. Place the Take-Screenshot.desktop file on your desktop.
-2. Go to your ID en change the .desktop file to your own path. 
+2. Go to your IDE en change the .desktop file to your own path. 
 3. Take screenshots
 
 ```
