@@ -3,7 +3,7 @@
 
  ![Banner](header_screenshot.png)
 
- ## Requierments
+ ## Requierments:
 - python3
 - import numpy as np
 - import cv2
@@ -18,7 +18,7 @@ cd src
 chmod +x app.py
 ```
 
-## Run
+## Run:
 1. Place the Take-Screenshot.desktop file on your desktop.
 2. Go to your IDE and change the .desktop file to your own paths. 
 3. Take screenshots
