@@ -15,10 +15,12 @@ git clone https://github.com/ramackersjp/Screenshot/station.git](https://github.
 cd Screenshot
 ./Take-Screenshot.sh
 ```
-chmod +x Take-Screenshot.sh
+chmod +x app.py (in the src root)
 
 ## Run
-To take a screenshot open the app.py file in terminal and type the following commandline: 
+1. Place the Take-Screenshot.desktop file on your desktop.
+2. Go to your ID en change the .desktop file to your own path. 
+3. Take screenshots
 
 ```
 python ./app.py
@@ -29,11 +31,6 @@ Quicklaunch (Single command):
 bash <(curl -L raw.githubusercontent.com/ramackersjp/Screenshot/main/src/app.py)
 ```
 
-Option 2 (Execute Take-Screenshot.sh):
-Take a screenshot by dubble clicking on the Take-Screenshot.sh file. (Don't forget to change the path in the Take-Screenshot.sh when you placing the file on another place):
-```
-To execute: Dubble click left mouse: Take-Screenshot.sh
-```
 ## Image save location:
 The place where you can find your screenshot.
 ```

@@ -1,6 +1,4 @@
-# Python program to take
-# screenshots
-
+#!/usr/bin/python
 
 import pyautogui
 import tkinter as tk
