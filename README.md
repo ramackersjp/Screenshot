@@ -14,7 +14,7 @@
 ```
 git clone https://github.com/ramackersjp/Screenshot/station.git
 cd Screenshot
-cd ./src
+cd src
 chmod +x app.py
 ```
 
