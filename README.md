@@ -11,7 +11,7 @@
 ## Pre-install:
 
 ```
-git clone https://github.com/ramackersjp/Screenshot/station.git](https://github.com/ramackersjp/Screenshot.git)
+git clone https://github.com/ramackersjp/Screenshot/station.git
 cd Screenshot
 ./Take-Screenshot.sh
 ```
