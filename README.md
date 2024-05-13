@@ -37,5 +37,5 @@ To execute: Dubble click left mouse: Take-Screenshot.sh
 ## Image save location:
 The place where you can find your screenshot.
 ```
-images are saved at the src map.
+images are saved at the src map. Or select your own location.
 ```
