@@ -26,12 +26,6 @@ chmod +x app.py
 2. Go to your IDE and change the .desktop file to your own paths. 
 3. Take screenshots
 
-Quicklaunch (Single command): 
-
-```
-bash <(curl -L raw.githubusercontent.com/ramackersjp/Screenshot/main/src/app.py)
-```
-
 ## Image save location:
 The place where you can find your screenshot.
 ```
