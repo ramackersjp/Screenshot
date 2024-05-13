@@ -39,3 +39,5 @@ The place where you can find your screenshot.
 ```
 images are saved at the src map. Or select your own location.
 ```
+## Contribute:
+If you want to contribute to this project, please create a branch from the beta version and pull it there. When the beta branch is fully where we want we merging the beta branch to the main branch.
