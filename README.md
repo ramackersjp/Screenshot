@@ -4,6 +4,7 @@
  ![Banner](header_screenshot.png)
 
  ## Requierments
+- python3
 - import numpy as np
 - import cv2
 - import pyautogui
