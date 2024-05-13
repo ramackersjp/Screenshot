@@ -14,10 +14,7 @@
 ```
 git clone https://github.com/ramackersjp/Screenshot/station.git
 cd Screenshot
-./Take-Screenshot.sh
-```
-Chmod (in the SRC map)
-```
+cd ./src
 chmod +x app.py
 ```
 
