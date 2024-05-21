@@ -14,6 +14,7 @@
 ```
 git clone https://github.com/ramackersjp/Screenshot.git
 cd Screenshot
+chmod +x Take-Screenshot.desktop
 cd src
 chmod +x app.py
 ```
