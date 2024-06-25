@@ -5,9 +5,9 @@
 
  ## Requierments:
 - python3
-- import numpy as np
-- import cv2
-- import pyautogui
+- pyautogui
+- tkinter
+- Pil (Pillow) or Gnome-screenshot
 
 ## Pre-install:
 
@@ -29,5 +29,9 @@ The place where you can find your screenshot.
 ```
 images are saved at the src map. Or select your own location.
 ```
+
+## Donations:
+(BTC): bc1qct0g398n48dus92h7x6yr56uap4437x3cxzksv
+
 ## Contribute:
 If you want to contribute to this project, please create a branch from the beta version and pull it there. When the beta branch is fully where we want we merging the beta branch to the main branch.
