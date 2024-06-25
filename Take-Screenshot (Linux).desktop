@@ -8,7 +8,7 @@
 [Desktop Entry]
 Name=Screenshot
 Comment=1.0.0.0
-Exec=/home/j.p./Applications/Screenshot/src/app.py
+Exec=/home/jp/Applications/Screenshot/src/app.py
 Terminal=false
 Type=Application
-Icon=/home/j.p./Applications/Screenshot/src/img/screenshot.png
+Icon=/home/jp/Applications/Screenshot/src/img/screenshot.png
