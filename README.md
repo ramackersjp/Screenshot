@@ -34,4 +34,4 @@ images are saved at the src map. Or select your own location.
 (BTC): bc1qct0g398n48dus92h7x6yr56uap4437x3cxzksv
 
 ## Contribute:
-If you want to contribute to this project, please create a branch from the beta version and pull it there. When the beta branch is fully where we want we merging the beta branch to the main branch.
+If you want to contribute to this project, please create a branch from the beta version and make your changes there. Once the beta branch meets our requirements, we will merge it into the main branch.
