@@ -16,7 +16,7 @@ window = tk.Canvas(root, width=200, height=70, bg="#1ab088", borderwidth=0)
 window.pack()
 
 # Load, resize the image to 40x40 pixels, and convert it to a format suitable for Tkinter
-image_path = r"/home/jp/Applications/Screenshot/src/img/arrow.png"
+image_path = r"./src/img/arrow.png"
 original_image = Image.open(image_path)
 resized_image = original_image.resize((40, 40), Image.LANCZOS)
 photoimage = ImageTk.PhotoImage(resized_image)
