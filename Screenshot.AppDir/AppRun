@@ -1,0 +1,5 @@
+#!/bin/bash
+SELF=$(readlink -f "$0")
+HERE=${SELF%/*}
+export PYTHONPATH="${HERE}/usr/lib/python3/dist-packages:${PYTHONPATH}"
+exec python3 "${HERE}/usr/lib/python3/dist-packages/src/app.py" "$@"
